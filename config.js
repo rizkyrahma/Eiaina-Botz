@@ -11,8 +11,8 @@ global.dev = `Adryan〲〲〲〲〲〲〲〲〲〲〲〲〲<XyzXz`// developer
 global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['https://chat.whatsapp.com/Lb4Emjih98rBiCZiZoS2eM', 'https://chat.whatsapp.com/CnQV9lNcHuIENb8SQ9CaYP']
 //kalo mau ubah nama owner nya ubah di ../plugins/creator.js
-global.owner = ['6285756507257'] // Letakan nomor kamu disini
-global.mods = ['0'] // Moderator?
+global.owner = ['6285888083107'] // Letakan nomor kamu disini
+global.mods = ['6285814079819'] // Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Pengguna premium tidak memerlukan limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
@@ -63,15 +63,15 @@ global.ig = `https://instagram.com/the.sad.boy01` //UBAH JADI LINK IG LU
 //donasi
 global.donate = `
 ╭─「  Donasi • Pulsa 」
-├❒ Indosat Ooredoo [+6285756507257]
+├❒ Indosat Ooredoo [+6285888083107]
 ╰────
 
 ╭─「  Donasi • Non Pulsa 」
-├❒ Gope [6285756507257]
+├❒ Gope [6285888083107]
 ╰────
 
 ╭─「  Hubungi 」
-├❒ Ingin donasi?Chat 〲 Wa.me/6285756507257 <
+├❒ Ingin donasi?Chat 〲 Wa.me/6285888083107 <
 ╰────` //UBAH JADI NOMER MU
 
 // Sticker WM
