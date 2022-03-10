@@ -6,7 +6,7 @@ let fetch = require('node-fetch')
 let moment = require('moment-timezone')
 const defaultMenu = {
   before: `
-╭〔 ZeusBotz 〕
+╭〔 AlamBotz 〕
 ├ Hai, *%name!*
 ├ Limit: *%limit*
 ├ Role: *%role*
@@ -24,7 +24,7 @@ const defaultMenu = {
 ⁙╭━━•›ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙‹•━━╮
 ⁙┃╭┈─────────────⩵꙰ཱི࿐
 ⁙┃╰─── %category ───➤ ↶↷*
-⁙├☆─〔 ZeusBotz 〕──➤`,
+⁙├☆─〔 AlamBotz 〕──➤`,
   body: `⁙├〲 %cmd %islimit %isPremium`,
   footer: '⁙╰•☆°°°🕊°°°🕊°°°🕊°°°‹•━━╮',
   after: `
