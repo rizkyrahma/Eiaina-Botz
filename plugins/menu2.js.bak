@@ -95,7 +95,7 @@ let handler  = async (m, { conn, usedPrefix: _p, DevMode }) => {
     let header = conn.menu.header || `⁙╭━━•›ꪶ ⸙ ━ ━ ━ ━ ꪶ ⸙‹•━━╮
 ⁙┃╭┈─────────────⩵࿐ཱི
 ⁙┃╰─── %category ───➤ ↶↷* 
-⁙├☆─〔  Zeus Botz 〕 ──➤`
+⁙├☆─〔  Alam Botz 〕 ──➤`
     let body   = conn.menu.body   || '⁙├〲 %cmd%islimit'
     let footer = conn.menu.footer || '⁙╰•☆°°°🕊°°°🕊°°°🕊°°°‹•━━╮'
     let after  = conn.menu.after  || '\n'
