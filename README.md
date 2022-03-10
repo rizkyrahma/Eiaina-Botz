@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/49a4c781ad1937399dee1.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/6a3564c36e81353a0a93e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 ---
@@ -162,8 +162,8 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kangsad01](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01)
-----|----|----
-[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01)
- Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Kangsad01](https://github.com/Kangsad01.png?size=100)](https://github.com/Kangsad01) | [![rizkyrahma](https://github.com/rizkyrahma.png?size=100)](https://github.com/rizkyrahma)
+----|----|----|----
+[Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Kangsad01](https://github.com/Kangsad01) | [rizkyrahma](https://github.com/rizkyrahma)
+ Penulis / Pencipta | Penulis ulang Ke-1 | Penulis ulang Ke-2 | Penulis ulang ke-3
 ---
